@@ -1,2 +1,2 @@
 # SQL_Portfolio
-Demo SQL Queries
+Demo SQL Queries using MySQL
